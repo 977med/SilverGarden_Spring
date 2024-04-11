@@ -7,7 +7,7 @@
 
 ## 제작기간 
 
-<img width="528" alt="스크린샷 2024-03-12 오전 9 24 04" src="https://github.com/Suyeon12345/SilverGarden_Back/assets/144109053/bd6ccc38-e22a-428a-b000-23a847b41790">
+<img width="800" alt="스크린샷 2024-03-12 오전 9 24 04" src="https://github.com/Suyeon12345/SilverGarden_Back/assets/144109053/bd6ccc38-e22a-428a-b000-23a847b41790">
 
 
 ## 👋 소개
