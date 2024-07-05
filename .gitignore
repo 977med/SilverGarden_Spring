@@ -36,7 +36,6 @@ out/
 ### VS Code ###
 .vscode/
 
-### applicaion.yml###
+### applicaion.yml####
 application.yml
-
 **/src/main/webapp/pds/
